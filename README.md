@@ -1,2 +1,2 @@
-# e
+# MEAN Stack basic CRUD example
  
